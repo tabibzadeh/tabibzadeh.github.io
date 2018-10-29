@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tabibza.de/categories/</loc>
+    <loc>https://tabibza.de/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tabibza.de/</loc>
+    <loc>https://tabibza.de/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tabibza.de/tags/</loc>
+    <loc>https://tabibza.de/tags/</loc>
     <priority>0</priority>
   </url>
   
