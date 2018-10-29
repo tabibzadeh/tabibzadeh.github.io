@@ -1,0 +1,7 @@
+theme = "anybodyhome"
+baseURL = "http://tabibza.de/"
+languageCode = "en-us"
+title = "Experiential Enlightenment"
+
+[params]
+subtitle = "Notes from an experimental point of view."
